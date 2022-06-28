@@ -1,0 +1,8 @@
+.InputArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.InputSubArea {
+  display: flex;
+}
